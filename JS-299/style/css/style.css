@@ -1,0 +1,11 @@
+.title {
+    color: red;
+}
+
+#maintitle {
+    color: blue;
+}
+
+#cover-image {
+    background-image: url(../images/image1.jpg);
+}
